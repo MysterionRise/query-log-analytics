@@ -1,0 +1,7 @@
+jupyterlab
+sentence-transformers
+umap-learn
+hdbscan
+matplotlib
+pandas
+numpy
